@@ -1,0 +1,4 @@
+
+[submodule "GestionnaireEmargement"]
+    path = GestionnaireEmargement
+    url = https://github.com/kamilia-juba/EMARGEMENT.git
